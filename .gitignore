@@ -9,11 +9,11 @@
 # Log file
 *.log
 
-.idea
+.idea/
 
 
 # IntelliJ
-out/
+.out/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
